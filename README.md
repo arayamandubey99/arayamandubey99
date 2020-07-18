@@ -21,7 +21,6 @@ Hi, I'm Arayaman Dubey, a passionate frontEnd web developer & De$igner from Indi
 <summary>Tools</summary>
 <ul>
     <li>Visual Studio Code</li>
-    <li></li>
 </ul>
 
 </details>
