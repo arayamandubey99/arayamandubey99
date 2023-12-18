@@ -1,7 +1,7 @@
  https://github.com/arayamandubey99  
-# 🖥 Front End Developer
+# 🖥 RPA Developer
 
-Hi, I'm Arayaman Dubey, a passionate frontEnd web developer & De$igner from India.
+Hi, I'm Arayaman Dubey, a passionate RPA developer from India.
 
 ## I am passionate about:
 
